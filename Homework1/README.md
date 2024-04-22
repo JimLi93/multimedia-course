@@ -1,6 +1,6 @@
 # Homework 1
 
-## Part 1: Color Quantization and Dithering
+## Part 1 : Color Quantization and Dithering
 
 ### Goal
 Implement median-cut color quantization to transform 24-bit color image to n-bit color image.
@@ -22,7 +22,7 @@ Also, it will save 4 images in `out` folder.
 * `error_diffusion_dithering_3.jpg` : 3-bit color image with diffusion dithering
 * `error_diffusion_dithering_6.jpg` : 6-bit color image with diffusion dithering
 
-## Part 2: Interpolation
+## Part 2 : Interpolation
 
 ### Goal
 Implement Nearest-neighbor interpolation and Bilinear interpolation to upsample image to 4 times the width and height.
@@ -38,7 +38,7 @@ It will save 2 images in `out` folder.
 * `bee_near.jpg` : The result of nearest-neighbor interpolation.
 * `bee_linear.jpg` : The result of bilinear interpolation.
 
-## Part 3: Photo Enhancement
+## Part 3 : Photo Enhancement
 
 ### Goal
 Implement photo enhancement by converting RGB color space to YIQ, do gamma transform to Y channel, and convert back to RGB.
